@@ -1,0 +1,7 @@
+{
+  "token" : "NDg4MDMzOTA2NTkxNzkzMTUz.DnWU5g.6I953SLg1kwil3G71Apzhza7pV0", //لا تلعب بيها بقيه ثابته
+  "ms" : 1500,
+  "roleToDisco" : ["disco"], // اسم رتبه انت اختارها
+  "prefix" : "f!",// تقدر تبدلها
+  "allowedUsers" : ["408374252291751976", "401738121827319810"] ///ايدي حقك
+}
